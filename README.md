@@ -18,7 +18,7 @@ mkdir wordpress
 
 `docker-compose up -d`
 
-** Checkear que los contenedores estén corriendo:**
+**Checkear que los contenedores estén corriendo:**
 
 `docker ps`
 
