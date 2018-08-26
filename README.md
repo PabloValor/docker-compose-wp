@@ -3,11 +3,16 @@ Docker compose para levantar wordpress con mariadb y nginx
 
 **Setup:**
 
-`mkdir wordpress-compose && cd wordpress-compose
-mkdir db-data /
-mkdir logs/nginx /
+```
+mkdir wordpress-compose && cd wordpress-compose`
+
+mkdir db-data/
+
+mkdir logs/nginx/
+
 mkdir wordpress
-`
+```
+
 
 **Correr docker-compose.yml:**
 
